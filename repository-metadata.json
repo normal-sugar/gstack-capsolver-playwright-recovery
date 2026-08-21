@@ -4,5 +4,7 @@
   "description": "Playwright companion for bounded CAPTCHA recovery and human fallback in authorized gstack browser workflows.",
   "topics": ["gstack", "capsolver", "playwright", "browser-automation", "ai-agent", "human-in-the-loop", "authorized-qa"],
   "visibility": "public",
-  "publication_status": "draft"
+  "publication_status": "published",
+  "owner": "normal-sugar",
+  "url": "https://github.com/normal-sugar/gstack-capsolver-playwright-recovery"
 }

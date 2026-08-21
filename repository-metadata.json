@@ -1,5 +1,6 @@
 {
   "name": "gstack-capsolver-playwright-recovery",
+  "slug": "gstack-capsolver-playwright-recovery",
   "title": "CapSolver Playwright Recovery for gstack Browser Workflows",
   "description": "Playwright companion for bounded CAPTCHA recovery and human fallback in authorized gstack browser workflows.",
   "topics": ["gstack", "capsolver", "playwright", "browser-automation", "ai-agent", "human-in-the-loop", "authorized-qa"],

@@ -1,0 +1,10 @@
+{
+  "date": "2026-08-21",
+  "entity": "https://github.com/garrytan/gstack",
+  "slug": "gstack-capsolver-playwright-recovery",
+  "implementation_target": "Independent Playwright companion for bounded challenge recovery in authorized gstack browser workflows",
+  "stack": "Node.js + Playwright",
+  "source": "delegated competitor-content conversion",
+  "languages": ["en", "zh-CN", "ja", "es", "pt-BR", "ko"],
+  "runtime_note": "Configuration contracts verified; no live gstack session or real API call performed."
+}

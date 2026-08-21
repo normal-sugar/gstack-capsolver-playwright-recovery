@@ -1,0 +1,19 @@
+{
+  "name": "gstack-capsolver-playwright-recovery",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Independent Playwright companion for bounded recovery in authorized gstack browser workflows.",
+  "scripts": {
+    "test": "node --test",
+    "smoke": "node scripts/smoke-test.js",
+    "check": "npm test && npm run smoke"
+  },
+  "dependencies": {
+    "playwright": "1.62.1"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

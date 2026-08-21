@@ -1,0 +1,11 @@
+{
+  "validated_at": "2026-08-21",
+  "unit_tests": {"passed": 10, "failed": 0},
+  "smoke_test": "passed",
+  "repository_validator": "passed",
+  "link_check": "passed",
+  "forbidden_term_scan": "passed",
+  "secret_scan": "passed",
+  "utm": "github / referral / repository-readme",
+  "runtime_validation": "Configuration contracts verified; no live gstack session or real CapSolver API call was performed."
+}
